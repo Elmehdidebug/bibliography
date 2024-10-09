@@ -1,0 +1,19 @@
+2024-10-04 09:04:52,420 - elsapy.elsclient - INFO - Module loaded.
+2024-10-04 09:04:53,510 - elsapy.utils - INFO - Module loaded.
+2024-10-04 09:04:53,510 - elsapy.elssearch - INFO - Module loaded.
+2024-10-04 09:04:53,513 - elsapy.elsentity - INFO - Module loaded.
+2024-10-04 09:04:53,513 - elsapy.elsprofile - INFO - Module loaded.
+2024-10-04 09:04:53,516 - elsapy.elsdoc - INFO - Module loaded.
+2024-10-04 09:11:34,837 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-10-04 09:32:50,776 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28abida%29+AUTHFIRST%28Otman%29
+2024-10-04 09:32:53,477 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-10-04 09:32:56,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-10-04 09:32:56,844 - elsapy.utils - INFO - Converting prism:coverDate
+2024-10-04 09:33:36,569 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-10-04 09:33:38,773 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-10-04 09:33:39,915 - elsapy.utils - INFO - Converting prism:coverDate
+2024-10-04 09:34:45,103 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28el+alaoui%29+AUTHFIRST%28omar%29
+2024-10-04 09:34:49,874 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857697652500%29
+2024-10-04 09:34:51,329 - elsapy.utils - INFO - Converting prism:coverDate
+2024-10-04 09:35:08,287 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857697652500%29
+2024-10-04 09:35:09,587 - elsapy.utils - INFO - Converting prism:coverDate
