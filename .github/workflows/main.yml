@@ -15,4 +15,4 @@ jobs:
 
     - name: Trigger Deploy to Render
       run: |
-        curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK }}"
+        curl -X POST https://api.render.com/deploy/srv-cs4glcl2ng1s739kc7g0?key=FUGHL2EVLHM
