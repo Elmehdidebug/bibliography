@@ -38,8 +38,8 @@ COPY requirements.txt /app/
 COPY . /app/
 
 # Install the dependencies
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip3 install --upgrade pip
+RUN pip3 install -r requirements.txt
 
 # Expose the port that the application will run on
 EXPOSE 5000
