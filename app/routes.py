@@ -14,16 +14,7 @@ from langchain_openai import AzureChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 import os
 
-# Ensure environment variables are set
-# os.environ["AZURE_OPENAI_API_KEY"] = "a58855509b504f28a0c36a312f911ca5"
-# os.environ["AZURE_OPENAI_ENDPOINT"] = "https://openai-marjane.openai.azure.com/"
-# os.environ["AZURE_OPENAI_DEPLOYMENT_NAME"] = "gpt-4o-marjane"
-# os.environ["AZURE_OPENAI_API_VERSION"] = "2024-07-01-preview"
 
-# os.environ["AZURE_OPENAI_API_KEY"] = "A99j5DuCTLviPTMz9odmTdVDvBH6r2yi6MGOTBK483ifCcjG5ZidJQQJ99AKACYeBjFXJ3w3AAABACOGYKts"
-# os.environ["AZURE_OPENAI_ENDPOINT"] = "https://marjane-gpt-rag.openai.azure.com/"
-# os.environ["AZURE_OPENAI_DEPLOYMENT_NAME"] = "marjane-gpt-4o"
-# os.environ["AZURE_OPENAI_API_VERSION"] = "2024-07-01-preview"
 
 warnings.filterwarnings('ignore')
 
