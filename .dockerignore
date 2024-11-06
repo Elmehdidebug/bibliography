@@ -1,0 +1,13 @@
+# Ignore git and version control files
+.git/
+.gitignore
+.gitlab-ci.yml
+
+# Ignore virtual environments
+bio_app_venv/
+.ipynb_checkpoints/
+
+scopus_api.ipynb
+requirements2.txt
+file1.txt
+CAES Faculty List_August 2024.xlsx
