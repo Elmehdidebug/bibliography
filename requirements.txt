@@ -143,3 +143,4 @@ Werkzeug==3.0.3
 widgetsnbextension==4.0.11
 yarg==0.1.9
 yarl==1.13.1
+python-dotenv==1.0.1
